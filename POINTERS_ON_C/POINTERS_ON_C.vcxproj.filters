@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\Chapter01">
+      <UniqueIdentifier>{86c97956-d1e8-4075-a330-e2eca0bad41e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter02">
+      <UniqueIdentifier>{25b7d745-bcd0-41cc-8ce3-f0a6f680887b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter03">
+      <UniqueIdentifier>{4239bac0-d3ef-4c8b-9831-c42554e249bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter04">
+      <UniqueIdentifier>{308fb87a-934d-495a-a7d6-6401794a0175}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter05">
+      <UniqueIdentifier>{07406421-1b05-4ba4-9fa4-41f7a7044447}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter06">
+      <UniqueIdentifier>{4923f7ae-0ebd-4a11-9357-4d078d65567b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter07">
+      <UniqueIdentifier>{080a8e18-46ea-4e6e-b40c-414ea2be4090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter08">
+      <UniqueIdentifier>{f1a3c14f-6838-46ea-ba9f-0b59a9758fd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter09">
+      <UniqueIdentifier>{ccbf974f-74a7-49aa-a0e3-f564f94ea0cd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chapter01.c">
+      <Filter>源文件\Chapter01</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter01_practice01.c">
+      <Filter>源文件\Chapter01</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter01_practice02.c">
+      <Filter>源文件\Chapter01</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter01_practice03.c">
+      <Filter>源文件\Chapter01</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter02_practice02.c">
+      <Filter>源文件\Chapter02</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter03_practice01.c">
+      <Filter>源文件\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter03_practice04.c">
+      <Filter>源文件\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter03_practice05_fail.c">
+      <Filter>源文件\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter03_practice23.c">
+      <Filter>源文件\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter04_practice04.c">
+      <Filter>源文件\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter04_practice06.c">
+      <Filter>源文件\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter04_practice07.c">
+      <Filter>源文件\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter04_practice12.c">
+      <Filter>源文件\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter05_practice03.c">
+      <Filter>源文件\Chapter05</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter05_practice05.c">
+      <Filter>源文件\Chapter05</Filter>
+    </ClCompile>
+    <ClCompile Include="driver.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter06_practice01.c">
+      <Filter>源文件\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter06_practice02.c">
+      <Filter>源文件\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter06_practice03.c">
+      <Filter>源文件\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter06_practice04.c">
+      <Filter>源文件\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter05_practice04.c">
+      <Filter>源文件\Chapter05</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter06_practice05.c">
+      <Filter>源文件\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter06_practice06.c">
+      <Filter>源文件\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter07_practice01.c">
+      <Filter>源文件\Chapter07</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter07_practice02.c">
+      <Filter>源文件\Chapter07</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter07_practice03.c">
+      <Filter>源文件\Chapter07</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter07_practice04.c">
+      <Filter>源文件\Chapter07</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter07_stdarg.c">
+      <Filter>源文件\Chapter07</Filter>
+    </ClCompile>
+    <ClCompile Include="Chpater07_practice05_fail.c">
+      <Filter>源文件\Chapter07</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter07_practice06_fail.c">
+      <Filter>源文件\Chapter07</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter08_practive01.c">
+      <Filter>源文件\Chapter08</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter08_practice02.c">
+      <Filter>源文件\Chapter08</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter08_practice03.c">
+      <Filter>源文件\Chapter08</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter08_practice04.c">
+      <Filter>源文件\Chapter08</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter08_practice05.c">
+      <Filter>源文件\Chapter08</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter08_practice06.c">
+      <Filter>源文件\Chapter08</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter08_practice07.c">
+      <Filter>源文件\Chapter08</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter08_practice08_unfinished.c">
+      <Filter>源文件\Chapter08</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter09_practice01.c">
+      <Filter>源文件\Chapter09</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter09_practice03.c">
+      <Filter>源文件\Chapter09</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter09_practice04.c">
+      <Filter>源文件\Chapter09</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter09_practice06.c">
+      <Filter>源文件\Chapter09</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter09_practice10.c">
+      <Filter>源文件\Chapter09</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter09_practice11.c">
+      <Filter>源文件\Chapter09</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter09_practice12.c">
+      <Filter>源文件\Chapter09</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="USE.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
