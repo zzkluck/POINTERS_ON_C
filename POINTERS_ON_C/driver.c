@@ -1,9 +1,10 @@
 #include<stdio.h>
 #include<string.h>
-int find_aim(char *string, char *aim);
+int prepare_key(char *key);
 
 int main(void) {
-	char string[]="zzkluck is great name!";
-	printf("%d\n", find_aim(string,"the"));
+	char key[27] = "TRAILBLAZERS";
+	prepare_key(key);
+	puts(key);
 	system("pause");
 }
