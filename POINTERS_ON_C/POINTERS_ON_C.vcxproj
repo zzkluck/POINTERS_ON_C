@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="09_13and14_crypt.c" />
     <ClCompile Include="Chapter01.c" />
     <ClCompile Include="Chapter01_practice01.c" />
     <ClCompile Include="Chapter01_practice02.c" />
@@ -61,6 +62,7 @@
     <ClCompile Include="Chapter09_practice10.c" />
     <ClCompile Include="Chapter09_practice11.c" />
     <ClCompile Include="Chapter09_practice12.c" />
+    <ClCompile Include="09_12_prepare_keys.c" />
     <ClCompile Include="Chpater07_practice05_fail.c" />
     <ClCompile Include="driver.c" />
     <ClCompile Include="Chapter06_practice01.c" />

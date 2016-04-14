@@ -1,4 +1,7 @@
 //...终于写出来了...被莫名其妙的BUG困扰好久..
+#ifdef USE_09_12
+
+
 #include<ctype.h>
 #include<string.h>
 
@@ -52,3 +55,4 @@ char* prepare_key(char *key) {
 	key = key_start;
 	strcpy_s(key, MAX + 1, keys);
 }
+#endif // USE_09_12

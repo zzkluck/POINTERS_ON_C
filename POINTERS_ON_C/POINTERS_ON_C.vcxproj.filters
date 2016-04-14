@@ -177,6 +177,12 @@
     <ClCompile Include="Chapter09_practice12.c">
       <Filter>源文件\Chapter09</Filter>
     </ClCompile>
+    <ClCompile Include="09_12_prepare_keys.c">
+      <Filter>源文件\Chapter09</Filter>
+    </ClCompile>
+    <ClCompile Include="09_13and14_crypt.c">
+      <Filter>源文件\Chapter09</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="USE.h">
